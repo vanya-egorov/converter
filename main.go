@@ -1,12 +1,10 @@
-// main.go
-
 package main
 
 import (
 	"converter/internal"
-	"converter/ioutil"
 	"flag"
 	"fmt"
+	"io/ioutil"
 )
 
 func main() {

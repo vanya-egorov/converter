@@ -2,8 +2,8 @@ package internal
 
 import (
 	"converter/internal/models"
-	"converter/ioutil"
 	"encoding/json"
+	"io/ioutil"
 
 	"gopkg.in/yaml.v2"
 )
